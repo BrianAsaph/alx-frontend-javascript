@@ -1,2 +1,2 @@
 # alx-frontend-javascript
- front end 
+front end
